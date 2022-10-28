@@ -12,7 +12,7 @@
     <main style="margin: auto 250px; border: 1px solid black; padding-bottom:50px">
 
         <div style="display: flex; justify-content:center">
-            <img src="logo.png" alt="" width="100">
+            <img src="logo.png" alt="" width="100" "margin-right: "10px">
             <h3>FORM PENDATAAN MAHASISWA <br> SISTEM INFORMASI</h3>
         </div>
         <hr>
